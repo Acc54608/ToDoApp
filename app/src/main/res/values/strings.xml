@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Alex Casper CPT 188 To-Do List App</string>
+    <string name="etNameHint">Enter Task Name</string>
+    <string name="add_button">Add To-Do</string>
+    <string name="delete_Todo">Delete/Done</string>
+    <string name="edit_button">Edit</string>
+    <string name="desc_button">Show/Edit Notes</string>
+    <string name="about_image">About</string>
+    <string name="save_button">Save</string>
+    <string name="back_button">Back</string>
+</resources>
